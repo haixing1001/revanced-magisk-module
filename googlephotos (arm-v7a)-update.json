@@ -1,6 +1,6 @@
 {
-  "version": "v7.47.0.810631069 (patches 5.41.0)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/haixing1001/revanced-magisk-module/releases/download/3/googlephotos-revanced-magisk-v7.47.0.810631069-arm-v7a.zip",
+  "version": "v7.48.0.813334473 (patches 5.42.1)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/haixing1001/revanced-magisk-module/releases/download/4/googlephotos-revanced-magisk-v7.48.0.813334473-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/haixing1001/revanced-magisk-module/update/build.md"
 }
