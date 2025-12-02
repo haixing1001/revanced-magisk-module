@@ -8,7 +8,7 @@ parallel-jobs = 1
 
 [YouTube]
 build-mode = "both"
-patches-version = "v5.47.0-dev.6"
+patches-version = "dev"
 excluded-patches = ""
 included-patches = ""
 version = "auto"
