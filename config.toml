@@ -52,7 +52,7 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Twitter]
 enabled = true
-patches-source = "crimera/piko"
+#patches-source = "crimera/piko"
 #cli-source = "ReVanced/revanced-cli"
 #cli-version = "v4.6.0"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
