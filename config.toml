@@ -7,7 +7,7 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-build-mode = "both"
+arch = "arm64-v8a"
 patches-version = "dev"
 excluded-patches = ""
 included-patches = ""
@@ -41,6 +41,8 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Twitch]
 enabled = false
@@ -49,7 +51,7 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Twitter]
-enabled = true
+enabled = false
 patches-source = "crimera/piko"
 #cli-source = "ReVanced/revanced-cli"
 #cli-version = "v4.6.0"
